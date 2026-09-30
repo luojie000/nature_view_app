@@ -1,0 +1,15 @@
+# Qt Creator / IDE
+.qtcreator/
+*.user
+CMakeUserPresets.json
+
+# Build output
+build/
+android/build/
+.gradle/
+local.properties
+
+# Packages
+*.apk
+*.aab
+*.so

@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/mipmap-hdpi/ic_launcher.png</file>
+        <file>res/mipmap-mdpi/ic_launcher.png</file>
+        <file>res/mipmap-xhdpi/ic_launcher.png</file>
+        <file>res/mipmap-xxhdpi/ic_launcher.png</file>
+        <file>res/mipmap-xxxhdpi/ic_launcher.png</file>
+    </qresource>
+</RCC>
